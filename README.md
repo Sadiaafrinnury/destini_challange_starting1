@@ -1,16 +1,17 @@
-# destini_challange_starting1
+# Destini Challenge Starting App
 
-A new Flutter project.
+Welcome to the Destini Challenge Starting App! This Flutter app is a starting point for the Destini challenge, where you create an interactive story app based on user choices.
 
-## Getting Started
+## Overview
 
-This project is a starting point for a Flutter application.
+The Destini Challenge Starting App provides a foundation for building an interactive story app. It includes a basic UI layout and functionality for displaying story text and choices. You can use this app as a starting point and expand upon it to create your own custom interactive story experience.
 
-A few resources to get you started if this is your first Flutter project:
+## Features
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+- Display a story text with two choices for the user.
+- Allow the user to make a choice and progress through the story.
+- Restart the story from the beginning.
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+
+Screensort:
+https://github.com/Sadiaafrinnury/destini_challange_starting1/assets/70070134/3f843fb0-916e-408e-b9e5-973278b7821f
