@@ -14,4 +14,4 @@ The Destini Challenge Starting App provides a foundation for building an interac
 
 
 Screensort:
-https://github.com/Sadiaafrinnury/destini_challange_starting1/assets/70070134/3f843fb0-916e-408e-b9e5-973278b7821f
+
